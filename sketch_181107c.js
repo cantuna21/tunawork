@@ -10,4 +10,6 @@ function draw() {
   }
   ellipse(mouseX-80, mouseY, 80, 80);
   ellipse(mouseX+80, mouseY, 80, 80);
+  ellipse(mouseX, mouseY-80, 80, 80);
+  ellipse(mouseX, mouseY+80, 80, 80);
 }
