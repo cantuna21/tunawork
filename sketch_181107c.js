@@ -1,9 +1,9 @@
 
-var a = 0.0;
-var b = 0.0;
-var speed1 = 0.5;
-var speed2 = 0.1;
-var c = 0;
+  var a = 0.0,
+  b = 0.0,
+  speed1 = 0.5,
+  speed2 = 0.1,
+  c = 0;
 
 function setup() {
   createCanvas(1280, 968);
