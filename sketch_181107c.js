@@ -320,7 +320,7 @@ function draw() {
   
   
   
-  if (mousePressed == true) {
+  if (mouseIsPressed) {
     if (c == 0){
       a+=speed1;
       b+=speed2;
